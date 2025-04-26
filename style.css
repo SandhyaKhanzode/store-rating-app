@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  }
+  
+  .form h2 {
+    text-align: center;
+  }
+  
+  input, select, button {
+    width: 100%;
+    padding: 0.75rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #4f46e5;
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3730a3;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9em;
+    text-align: center;
+  }
+  
+  .link {
+    text-align: center;
+    margin-top: 1rem;
+  }
+
+  
+  .store-card {
+    background: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .store-card h4 {
+    margin-bottom: 5px;
+  }
+  
+  .store-card select {
+    padding: 5px;
+    margin-top: 10px;
+  }
+
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  th, td {
+    padding: 8px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  th {
+    background-color: #f0f0f0;
+  }
+
+  
+  input[type="password"] {
+    display: block;
+    margin: 8px 0;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+  }
+
+  
+
+  input, select {
+    padding: 6px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  

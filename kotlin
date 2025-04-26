@@ -1,0 +1,7 @@
+//store-rating-app/
+//├── index.html         // Login Page
+//├── signup.html        // Sign Up Page
+//├── dashboard.html     // Dynamic dashboard (changes by role)
+//├── style.css          // Responsive styling
+//├── script.js          // All logic
+//├── data.js            // Simulated "database"
